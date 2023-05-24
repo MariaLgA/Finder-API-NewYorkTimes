@@ -118,11 +118,12 @@ Nesse projeto usaremos o S.O Linux Ubuntu, portanto os comandos se adequam a ele
 3.2 - Após isso, clique em Apps(localizado em baixo do seu e-mail), preencha as inromações pedidas e habilite(Enable) as APIS que irá utilizar, nesse projeto foi usada as mesmas reportadas no tópico acima "Como Fazer", após isso Salve as informções
 3.3 - A página vai sofrer um refresh e mesma vai retornar para você com o seu token, copie ele e verifique que o mesmo consta com o status ```Active```.
 
-![image](/Imagens/grafana.png)
+![image](/imagens/git.png)
+
 
 3.4 - No script principal denominado Main.py, dentro das opções encontre as url's usadas para a requisição da API e ude onde se encontra "token_api" por seu token gerado no passo anterior.
 
-![image](/Imagens/grafana.png)
+![image](/imagens/token__.png)
 
 4 - Passo Final:
 
