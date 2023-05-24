@@ -48,12 +48,12 @@ In this project we will use the Ubuntu Linux OS, so the commands are suitable fo
 3.2 - After that, click on Apps (located below your e-mail), fill in the requested information and enable (Enable) the APIs that you will use, in this project the same ones reported in the topic "How to do it" above were used, after this Save the information
 3.3 - The page will be refreshed and it will return to you with your token, copy it and check that it has the status ```Active```.
 
-![image](/Imagens/grafana.png)
+![image](/imagens/git.png)
 
 
  3.4 - In the main script called Main.py, within the options, find the url's used for the API request and ude where ```token_api``` is found for your token generated in the previous step.
 
-![image](/Imagens/grafana.png)
+![image](/imagens/token__.png)
 
 
 **4 - Final Step:**
